@@ -1,3 +1,14 @@
+/* nav-bar style */
+
+.nav-link {
+  color: #6d9886;
+  font-size: 1.3rem;
+}
+.navbar-brand {
+  color: #6d9886;
+  font-size: 1.3rem;
+}
+
 /* hero background image */
 .bgimage {
   height: 100vh;
@@ -23,7 +34,10 @@
 .imageAboutPage {
   width: 100%;
 }
-
+/* About Section Text Style */
+.text-center {
+  color: #6d9886;
+}
 /* Style for Services Starts */
 
 .servicesText.card {
@@ -81,6 +95,6 @@
 #contact {
   padding-bottom: 4rem;
 }
-/* .contact-button {
+.btn-success {
   background-color: #f5c6aa;
-} */
+}
