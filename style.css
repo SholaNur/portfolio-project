@@ -69,9 +69,7 @@
   font-size: 36px;
   cursor: pointer;
 }
-.fa-facebook:hover,
-.fa-instagram:hover,
-.fa-twitter:hover,
+
 .fa-linkedin:hover,
 .fa-twitch:hover {
   color: #f8e2cf;
@@ -84,7 +82,10 @@
   background-color: #f5c6aa;
   text-align: center;
 }
-
+/* service card style */
+.card {
+  margin-bottom: 20px;
+}
 #about,
 #services,
 #portfolio,
